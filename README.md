@@ -7,3 +7,7 @@ Dependency:
 
 Demo:
 https://text-transform-santhiya.netlify.app/
+
+
+
+![Screenshot from 2023-02-27 09-45-33](https://user-images.githubusercontent.com/76711726/221473003-e741745a-347b-4c66-885e-4819041042d4.png)
